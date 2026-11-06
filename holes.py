@@ -3,20 +3,11 @@ import os
 import subprocess
 from pathlib import Path
 
-GITHUB_USER = "xmbh"
-REPO_NAME = "contribution-graph"
+GITHUB_USER = "GITHUB-USER"
+REPO_NAME = "REPO NAME YOU ARE GOING TO CREATE"
 
 DATES = [
-    "2026-10-04",
-    "2026-10-06",
-    "2026-10-08",
-    "2026-10-24",
-    "2026-10-28",
-    "2026-10-29",
-    "2026-10-30",
-    "2026-10-31",
-    "2026-11-02",
-    "2026-11-04",
+    "year-month-day",
 ]
 
 def run(*args, env=None, capture=False):
