@@ -25,9 +25,4 @@ Follow the instructions in your terminal.
 
 ## Disclaimer
 
-This project is intended for educational and experimental purposes. Generated contributions do not necessarily represent real development activity.
-
-## Author
-
-**MBH** — [@xmbh](https://github.com/xmbh)
-
+This project is intended for educational and experimental purposes. Generated contributions do not necessarily represent real development activity. 
